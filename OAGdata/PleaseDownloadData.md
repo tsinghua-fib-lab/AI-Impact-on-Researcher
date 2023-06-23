@@ -1,0 +1,1 @@
+Please download the MAG data from https://www.aminer.cn/oag-2-1, which takes about 500GB.
